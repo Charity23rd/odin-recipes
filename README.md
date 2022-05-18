@@ -1,2 +1,1 @@
-# odin-recipes
-My first Webpage!
+This project is about creating my first website
